@@ -8,6 +8,7 @@ class AssignmentDevopsApplicationTests {
 
 	@Test
 	void contextLoads() {
+		//Adding Assertion for SonarQube
 		Assertions.assertTrue(true);
 	}
 
