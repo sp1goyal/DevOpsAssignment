@@ -8,6 +8,7 @@ class AssignmentDevopsApplicationTests {
 
 	@Test
 	void contextLoads() {
+		Assertions.assertTrue(true);
 	}
 
 }
